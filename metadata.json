@@ -1,0 +1,6 @@
+{
+  "name": "ResQRoute — Emergency Escape Planner",
+  "description": "Intelligent emergency navigation and evacuation planner calculating safest routes based on disaster conditions, road hazards, shelter availability, and vulnerability.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
