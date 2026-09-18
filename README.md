@@ -68,7 +68,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/lt724635-coder/resqroute-emergency-escape-planner.git
+git clone https://github.com/aayushtyagi00/resqroute-emergency-escape-planner.git
 cd resqroute-emergency-escape-planner
 ```
 
